@@ -1,0 +1,101 @@
+id,name,category,description,price,stock,isActive
+1,Product 1,Books,This is a sample description for Product 1.,89.59,26,TRUE
+2,Product 2,Books,This is a sample description for Product 2.,402.04,132,TRUE
+3,Product 3,Clothing,This is a sample description for Product 3.,32.59,134,TRUE
+4,Product 4,Furniture,This is a sample description for Product 4.,366.61,182,TRUE
+5,Product 5,Electronics,This is a sample description for Product 5.,311.9,199,TRUE
+6,Product 6,Books,This is a sample description for Product 6.,65.09,156,TRUE
+7,Product 7,Furniture,This is a sample description for Product 7.,350.71,183,TRUE
+8,Product 8,Books,This is a sample description for Product 8.,19.12,29,TRUE
+9,Product 9,Toys,This is a sample description for Product 9.,403.36,86,TRUE
+10,Product 10,Electronics,This is a sample description for Product 10.,200.15,128,TRUE
+11,Product 11,Toys,This is a sample description for Product 11.,106.41,109,TRUE
+12,Product 12,Electronics,This is a sample description for Product 12.,364.41,197,TRUE
+13,Product 13,Furniture,This is a sample description for Product 13.,333.91,79,TRUE
+14,Product 14,Sports,This is a sample description for Product 14.,232.3,128,TRUE
+15,Product 15,Toys,This is a sample description for Product 15.,325.4,144,TRUE
+16,Product 16,Sports,This is a sample description for Product 16.,172.68,97,TRUE
+17,Product 17,Toys,This is a sample description for Product 17.,184.62,45,TRUE
+18,Product 18,Home Appliances,This is a sample description for Product 18.,317.04,37,TRUE
+19,Product 19,Electronics,This is a sample description for Product 19.,37.43,41,TRUE
+20,Product 20,Toys,This is a sample description for Product 20.,384.82,19,TRUE
+21,Product 21,Furniture,This is a sample description for Product 21.,315.82,144,TRUE
+22,Product 22,Home Appliances,This is a sample description for Product 22.,140.87,159,TRUE
+23,Product 23,Sports,This is a sample description for Product 23.,274.68,90,TRUE
+24,Product 24,Home Appliances,This is a sample description for Product 24.,208.75,137,TRUE
+25,Product 25,Toys,This is a sample description for Product 25.,286.66,85,TRUE
+26,Product 26,Books,This is a sample description for Product 26.,299.28,124,TRUE
+27,Product 27,Electronics,This is a sample description for Product 27.,403.62,191,TRUE
+28,Product 28,Books,This is a sample description for Product 28.,173.34,102,TRUE
+29,Product 29,Toys,This is a sample description for Product 29.,307.14,178,TRUE
+30,Product 30,Home Appliances,This is a sample description for Product 30.,365.03,153,TRUE
+31,Product 31,Books,This is a sample description for Product 31.,202.24,136,TRUE
+32,Product 32,Sports,This is a sample description for Product 32.,474.97,130,TRUE
+33,Product 33,Clothing,This is a sample description for Product 33.,76.22,142,TRUE
+34,Product 34,Electronics,This is a sample description for Product 34.,480.42,196,TRUE
+35,Product 35,Toys,This is a sample description for Product 35.,373.65,194,TRUE
+36,Product 36,Furniture,This is a sample description for Product 36.,87.53,122,TRUE
+37,Product 37,Clothing,This is a sample description for Product 37.,300.39,150,TRUE
+38,Product 38,Books,This is a sample description for Product 38.,386.29,38,TRUE
+39,Product 39,Electronics,This is a sample description for Product 39.,493.5,29,TRUE
+40,Product 40,Home Appliances,This is a sample description for Product 40.,75.64,84,TRUE
+41,Product 41,Furniture,This is a sample description for Product 41.,302.97,170,TRUE
+42,Product 42,Clothing,This is a sample description for Product 42.,128.14,105,TRUE
+43,Product 43,Clothing,This is a sample description for Product 43.,227.98,148,TRUE
+44,Product 44,Clothing,This is a sample description for Product 44.,350.58,79,TRUE
+45,Product 45,Toys,This is a sample description for Product 45.,71.96,192,TRUE
+46,Product 46,Toys,This is a sample description for Product 46.,35.64,93,TRUE
+47,Product 47,Home Appliances,This is a sample description for Product 47.,421.29,88,TRUE
+48,Product 48,Electronics,This is a sample description for Product 48.,228.28,124,TRUE
+49,Product 49,Sports,This is a sample description for Product 49.,427.39,198,TRUE
+50,Product 50,Electronics,This is a sample description for Product 50.,149.69,150,TRUE
+51,Product 51,Sports,This is a sample description for Product 51.,441.87,95,TRUE
+52,Product 52,Toys,This is a sample description for Product 52.,281.84,55,TRUE
+53,Product 53,Sports,This is a sample description for Product 53.,398.9,85,TRUE
+54,Product 54,Clothing,This is a sample description for Product 54.,274.97,61,TRUE
+55,Product 55,Sports,This is a sample description for Product 55.,18.09,84,TRUE
+56,Product 56,Toys,This is a sample description for Product 56.,303.78,74,TRUE
+57,Product 57,Sports,This is a sample description for Product 57.,61.5,24,TRUE
+58,Product 58,Home Appliances,This is a sample description for Product 58.,418.69,179,TRUE
+59,Product 59,Clothing,This is a sample description for Product 59.,370.95,130,TRUE
+60,Product 60,Electronics,This is a sample description for Product 60.,166.72,173,TRUE
+61,Product 61,Home Appliances,This is a sample description for Product 61.,42.26,197,TRUE
+62,Product 62,Automotive,This is a sample description for Product 62.,84.49,147,TRUE
+63,Product 63,Clothing,This is a sample description for Product 63.,385.71,133,TRUE
+64,Product 64,Sports,This is a sample description for Product 64.,341.81,49,TRUE
+65,Product 65,Home Appliances,This is a sample description for Product 65.,278.12,37,TRUE
+66,Product 66,Furniture,This is a sample description for Product 66.,499.67,35,TRUE
+67,Product 67,Home Appliances,This is a sample description for Product 67.,185.68,130,TRUE
+68,Product 68,Automotive,This is a sample description for Product 68.,53.3,107,TRUE
+69,Product 69,Furniture,This is a sample description for Product 69.,296.77,174,TRUE
+70,Product 70,Books,This is a sample description for Product 70.,272.24,30,TRUE
+71,Product 71,Automotive,This is a sample description for Product 71.,154.65,69,TRUE
+72,Product 72,Home Appliances,This is a sample description for Product 72.,411.22,95,TRUE
+73,Product 73,Toys,This is a sample description for Product 73.,426.07,130,TRUE
+74,Product 74,Automotive,This is a sample description for Product 74.,259.59,94,TRUE
+75,Product 75,Electronics,This is a sample description for Product 75.,197.83,43,TRUE
+76,Product 76,Sports,This is a sample description for Product 76.,110.85,153,TRUE
+77,Product 77,Automotive,This is a sample description for Product 77.,128.47,64,TRUE
+78,Product 78,Clothing,This is a sample description for Product 78.,468.14,75,TRUE
+79,Product 79,Electronics,This is a sample description for Product 79.,110.62,19,TRUE
+80,Product 80,Furniture,This is a sample description for Product 80.,8.9,164,TRUE
+81,Product 81,Furniture,This is a sample description for Product 81.,106.23,94,TRUE
+82,Product 82,Toys,This is a sample description for Product 82.,165,125,TRUE
+83,Product 83,Books,This is a sample description for Product 83.,464.98,53,TRUE
+84,Product 84,Home Appliances,This is a sample description for Product 84.,422.51,73,TRUE
+85,Product 85,Clothing,This is a sample description for Product 85.,307.98,10,TRUE
+86,Product 86,Sports,This is a sample description for Product 86.,409.77,27,TRUE
+87,Product 87,Electronics,This is a sample description for Product 87.,137.13,166,TRUE
+88,Product 88,Automotive,This is a sample description for Product 88.,340.68,76,TRUE
+89,Product 89,Clothing,This is a sample description for Product 89.,91.37,78,TRUE
+90,Product 90,Furniture,This is a sample description for Product 90.,229.44,85,TRUE
+91,Product 91,Home Appliances,This is a sample description for Product 91.,300.78,190,TRUE
+92,Product 92,Clothing,This is a sample description for Product 92.,340.98,31,TRUE
+93,Product 93,Electronics,This is a sample description for Product 93.,175.3,115,TRUE
+94,Product 94,Automotive,This is a sample description for Product 94.,265.09,166,TRUE
+95,Product 95,Sports,This is a sample description for Product 95.,147.87,106,TRUE
+96,Product 96,Sports,This is a sample description for Product 96.,341.37,133,TRUE
+97,Product 97,Clothing,This is a sample description for Product 97.,159.4,85,TRUE
+98,Product 98,Clothing,This is a sample description for Product 98.,9.62,194,TRUE
+99,Product 99,Toys,This is a sample description for Product 99.,366.37,42,TRUE
+100,Product 100,Toys,This is a sample description for Product 100.,11.24,138,TRUE
